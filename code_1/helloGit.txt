@@ -1,0 +1,3 @@
+hello!git!
+hello,mygit!
+你好，git!
